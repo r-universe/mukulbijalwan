@@ -8,3 +8,6 @@
 [submodule "DPrivStats"]
 	path = DPrivStats
 	url = https://github.com/mukulbijalwan/dprivstats
+[submodule "fuzzySurvival"]
+	path = fuzzySurvival
+	url = https://github.com/cran/fuzzySurvival
