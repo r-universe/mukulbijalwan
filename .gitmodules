@@ -4,10 +4,13 @@
 	branch = HEAD
 [submodule "DPSynth"]
 	path = DPSynth
-	url = https://github.com/mukulbijalwan/dpsynth
+	url = https://github.com/cran/DPSynth
 [submodule "DPrivStats"]
 	path = DPrivStats
-	url = https://github.com/mukulbijalwan/dprivstats
+	url = https://github.com/cran/DPrivStats
+[submodule "IFFuzzyStats"]
+	path = IFFuzzyStats
+	url = https://github.com/cran/IFFuzzyStats
 [submodule "fuzzySurvival"]
 	path = fuzzySurvival
 	url = https://github.com/mukulbijalwan/fuzzysurvival
