@@ -14,3 +14,6 @@
 [submodule "fuzzySurvival"]
 	path = fuzzySurvival
 	url = https://github.com/mukulbijalwan/fuzzysurvival
+[submodule "progme"]
+	path = progme
+	url = https://github.com/cran/progme
