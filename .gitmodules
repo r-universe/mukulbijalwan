@@ -13,7 +13,7 @@
 	url = https://github.com/cran/IFFuzzyStats
 [submodule "fuzzySurvival"]
 	path = fuzzySurvival
-	url = https://github.com/mukulbijalwan/fuzzysurvival
+	url = https://github.com/cran/fuzzySurvival
 [submodule "progme"]
 	path = progme
 	url = https://github.com/cran/progme
